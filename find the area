@@ -1,0 +1,4 @@
+def findarea(r):
+ pI = 3.142
+ retuen pI * (r*r):
+ print ("area is %.6f" % findarea (5)
